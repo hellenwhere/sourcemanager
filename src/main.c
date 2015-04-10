@@ -1,4 +1,4 @@
-//test git
+//modify begin with creat
 #include"dirent.h"
 int select_name(char name[])
 {
